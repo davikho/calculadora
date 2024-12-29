@@ -16,7 +16,7 @@ Esta calculadora fue creada por **David Flores** 🇪🇨.
 
 Puedes descargar la app desde los siguientes enlaces:
 
-- calculadora.apk
+- [calculadora.apk](https://github.com/davikho/calculadora/raw/refs/heads/main/calculadora.apk)
 - **[Google Play Store](#)** *(Próximamente disponible)*
 
 ---
