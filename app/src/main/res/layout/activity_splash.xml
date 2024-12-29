@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_gravity="center"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".splash">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="217dp"
+        android:layout_height="250dp"
+        android:contentDescription="@string/app_name"
+        android:fadingEdge="@string/fab_transformation_scrim_behavior"
+        app:srcCompat="@drawable/cal"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="217dp" />
+
+</LinearLayout>
